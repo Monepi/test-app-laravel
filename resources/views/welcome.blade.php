@@ -83,9 +83,6 @@
                 </div>
 
                 <div class="links">
-                    @foreach ($names as $name)
-                        <a href="https://laravel.com/docs">{{ $name }}</a>
-                    @endforeach
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
